@@ -1,0 +1,36 @@
+{
+	"terminal.integrated.env.windows": {
+		"PATH": "${workspaceFolder}\\MinGW\\bin;${env:PATH}"
+	},
+	"files.associations": {
+		"tree.h": "c",
+		"allegro_image.h": "c",
+		"optional": "c",
+		"istream": "c",
+		"ostream": "c",
+		"ratio": "c",
+		"system_error": "c",
+		"array": "c",
+		"functional": "c",
+		"tuple": "c",
+		"type_traits": "c",
+		"utility": "c",
+		"ball.h": "c",
+		"allegro_primitives.h": "c",
+		"allegro_audio.h": "c",
+		"shape.h": "c",
+		"algif.h": "c",
+		"circle.h": "c",
+		"element.h": "c",
+		"gamescene.h": "c",
+		"bloodbar.h": "c",
+		"stdbool.h": "c",
+		"scene.h": "c",
+		"point.h": "c",
+		"rectangle.h": "c",
+		"scenemanager.h": "c",
+		"gameend.h": "c",
+		"allegro_acodec.h": "c",
+		"allegro_ttf.h": "c"
+	}
+}
